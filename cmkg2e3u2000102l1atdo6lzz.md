@@ -4,7 +4,7 @@ seoDescription: "Kickstart your IT career with my guide to Microsoft Certificati
 datePublished: 2026-01-15T23:12:13.035Z
 cuid: cmkg2e3u2000102l1atdo6lzz
 slug: how-to-become-microsoft-certified
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766440333802/61692d63-1a21-4f19-8f7e-39667f044500.png
+cover: https://cdn.hashnode.com/uploads/covers/6862cf4acc277a35bb68ec0f/2fb760e5-bc00-46ce-9d77-161aa216825b.png
 tags: cloud, microsoft, azure, certification, microsoft365
 
 ---
