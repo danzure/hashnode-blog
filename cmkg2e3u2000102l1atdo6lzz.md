@@ -1,10 +1,10 @@
 ---
-title: "How to... Become Microsoft Certified"
+title: "How to.. Become Microsoft Certified"
 seoDescription: "Kickstart your IT career with my guide to Microsoft Certifications. Learn how to choose the right Azure exam, best study resources and booking tips."
 datePublished: 2026-01-15T23:12:13.035Z
 cuid: cmkg2e3u2000102l1atdo6lzz
 slug: how-to-become-microsoft-certified
-cover: https://cdn.hashnode.com/uploads/covers/6862cf4acc277a35bb68ec0f/2fb760e5-bc00-46ce-9d77-161aa216825b.png
+cover: https://cdn.hashnode.com/uploads/covers/6862cf4acc277a35bb68ec0f/abcaf0f1-3841-4263-8056-f4e0a5a75396.png
 tags: cloud, microsoft, azure, certification, microsoft365
 
 ---
