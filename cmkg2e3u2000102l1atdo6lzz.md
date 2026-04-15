@@ -1,5 +1,5 @@
 ---
-title: "How to.. Become Microsoft Certified"
+title: "How To.. Become Microsoft Certified"
 seoDescription: "Kickstart your IT career with my guide to Microsoft Certifications. Learn how to choose the right Azure exam, best study resources and booking tips."
 datePublished: 2026-01-15T23:12:13.035Z
 cuid: cmkg2e3u2000102l1atdo6lzz
