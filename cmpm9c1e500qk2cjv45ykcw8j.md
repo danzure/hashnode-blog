@@ -36,7 +36,7 @@ Let me explain using some real-world examples to make things a bit clearer:
 
 ## **How to Start Your AI Journey**
 
-Now, if you’ve recently started your journey into Azure and are sat there thinking, “Where on earth do I begin with all of this?”, my best advice is to start small. The beauty of the cloud is that you don't need to buy a massive server to try these things out.
+Now, if you’ve recently started your journey into Azure, my best advice is to start small. The beauty of the cloud is that you don't need to buy a massive server to try these things out.
 
 If you are completely new, I highly recommend starting with the pre-built Azure AI Services. If you have a free Azure account (or your existing trial subscription credits), deploy a simple Vision or Speech service, and see if you can get it to analyse a picture or read a short audio file. Microsoft Learn has some fantastic, completely free sandbox modules that will walk you through these exact steps without you having to spend a single penny.
 
