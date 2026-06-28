@@ -13,11 +13,13 @@ tags: ai, azure, microsoftfoundry
 
 Feeling overwhelmed by Azure's AI offerings? This guide cuts through the jargon to break down the Azure AI ecosystem into a practical, easy-to-understand toolkit. We demystify everything from pre-built AI Services to Machine Learning, explaining exactly what these tools do and how to confidently start integrating them into your existing cloud architecture.
 
+### Introduction
+
 'I am inevitable' - Thanos. I think it's finally time I talk about the two most used letters of the alphabet in recent times. Love it or hate it, the introduction of Artificial Intelligence (AI) has caused an enormous shift not only in the cloud space but across much wider industries.
 
 But what actually is AI? And more importantly for those of us navigating the Microsoft cloud ecosystem, how on earth do we make sense of all the different AI services Azure has to offer? If you’ve looked at the Azure portal recently and felt completely overwhelmed by the sheer number of AI options, you are absolutely not alone. For this entry, I want to strip away the complex jargon and break down exactly what these tools are, what they do, and how you can begin to wrap your head around them.
 
-## **The AI Toolkit**
+### **The AI Toolkit**
 
 Fundamentally, you can think of the Azure AI ecosystem as a massive toolkit. Just like you have different tools for different jobs in a physical workshop—you wouldn't use a sledgehammer to carefully hang a picture frame—Azure provides different services depending on what you might want to create within the AI space. That might be a highly complex custom machine learning model, a generative AI chatbot that can talk to your customers, or just a simple scanner that pulls text off a PDF receipt.
 
@@ -36,7 +38,7 @@ Let me explain using some real-world examples to make things a bit clearer:
 *   **Azure Machine Learning (The Heavy Machinery):** Let’s say you work for a data-heavy organisation that needs to predict future sales trends based on decades of highly specific historical data. Azure Machine Learning (AML) is the heavyweight environment. This is where your data scientists can train, test, tune, and deploy their own custom models completely from scratch. It is incredibly powerful, but it requires a lot more technical knowledge to use effectively.
     
 
-## **How to Start Your AI Journey**
+### **How to Start Your AI Journey**
 
 Now, if you’ve recently started your journey into Azure, my best advice is to start small. The beauty of the cloud is that you don't need to buy a massive server to try these things out.
 
@@ -44,7 +46,7 @@ If you are completely new, I highly recommend starting with the pre-built Azure 
 
 Don't feel like you need to understand Azure Machine Learning or complex model training right out of the gate. For the vast majority of people—even experienced IT professionals—leveraging the pre-built services or the Azure OpenAI service is more than enough to build some genuinely incredible solutions.
 
-## **Closing Thoughts**
+### **Closing Thoughts**
 
 Getting started with AI in Azure can feel like stepping into a vast, ever-evolving landscape. It can be intimidating, but the key is consistency and curiosity. This isn’t something to cram over a weekend or a single evening.
 
