@@ -11,6 +11,8 @@ tags: ai, azure, microsoftfoundry
 
 ---
 
+Feeling overwhelmed by Azure's AI offerings? This guide cuts through the jargon to break down the Azure AI ecosystem into a practical, easy-to-understand toolkit. We demystify everything from pre-built AI Services to Machine Learning, explaining exactly what these tools do and how to confidently start integrating them into your existing cloud architecture.
+
 'I am inevitable' - Thanos. I think it's finally time I talk about the two most used letters of the alphabet in recent times. Love it or hate it, the introduction of Artificial Intelligence (AI) has caused an enormous shift not only in the cloud space but across much wider industries.
 
 But what actually is AI? And more importantly for those of us navigating the Microsoft cloud ecosystem, how on earth do we make sense of all the different AI services Azure has to offer? If you’ve looked at the Azure portal recently and felt completely overwhelmed by the sheer number of AI options, you are absolutely not alone. For this entry, I want to strip away the complex jargon and break down exactly what these tools are, what they do, and how you can begin to wrap your head around them.
