@@ -11,7 +11,7 @@ tags: cloud, microsoft, azure, certification, microsoft365
 
 Ready to validate your cloud skills but unsure where to start? This guide cuts through the confusion to break down the "what, why, and how" of Microsoft Certifications. We explore the different exam tiers—from Fundamentals to Expert—and provide a clear, three-step roadmap for studying, practising, and confidently passing your next (or first!) Microsoft exam.
 
-### Starting Something New
+### Introduction
 
 The New Year for a lot of people marks the start of something new, something we want to improve on or achieve in the year ahead, be that the diet you start every year or maybe learning a new language. For this month's (long overdue) entry, and in keeping with the spirit of starting anew, I’ve decided to cover the ‘How to..’ of Microsoft Certifications: what are they and how do you get certified?
 
