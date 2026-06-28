@@ -11,6 +11,8 @@ tags: microsoft, azure, fundamentals, microsoft-azure
 
 ---
 
+Wondering how to keep your Azure environment organised and efficient? Following our guide on subscriptions, this entry breaks down Azure Resource Groups—the essential logical containers for your cloud resources. We explore the straightforward creation process, crucial nuances regarding metadata regions, and how grouping deployments by workload simplifies lifecycle management. Discover how mastering this foundational practice directly drives both Cost Optimisation and Operational Excellence within your cloud architecture.
+
 ### What are Resource Groups
 
 In the previous entry, we covered subscriptions, so naturally it makes sense that we now cover Resource Groups. In short, just like a subscription, you can think of a resource group as another sort of 'container', and these sit within or under your subscription (or subscriptions if you have multiple). However, unlike subscriptions, resource groups are primarily—as the name suggests—a method of grouping your deployed cloud resources, be that a virtual machine or a virtual network, into one logically assigned place.
@@ -42,7 +44,7 @@ Once you're in the Basics menu, there are only a few options to choose from:
 
 However, while these options seem very basic—and for the most part, they are—there are some nuances as a newcomer to the platform you should be aware of! The main one is region. Deploying a resource group **does not** dictate or control the region of the resources you can deploy into it. Resource Groups hold only the metadata; so, while your resource group could be deployed in UK South, you could still have a virtual machine deployed in Australia East within that same resource group.
 
-> Best Practice: Always try to keep your resource group and its resources in the same region to ensure high availability of management operations and for compliance purposes**.**
+> Best Practice: Always try to keep your resource group and its resources in the same region to ensure high availability of management operations and for compliance purposes\*\*.\*\*
 
 With your subscription chosen and your region and resource group name selected, you then have the Tags menu that we'll cover in a future entry. For now, let's skip to **Review + Create** to then select 'Create' and complete our deployment. That's it—you have your very first Azure Resource Group!
 
