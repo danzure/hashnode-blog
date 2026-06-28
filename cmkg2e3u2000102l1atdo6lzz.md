@@ -9,11 +9,15 @@ tags: cloud, microsoft, azure, certification, microsoft365
 
 ---
 
+Ready to validate your cloud skills but unsure where to start? This guide cuts through the confusion to break down the "what, why, and how" of Microsoft Certifications. We explore the different exam tiers—from Fundamentals to Expert—and provide a clear, three-step roadmap for studying, practising, and confidently passing your next (or first!) Microsoft exam.
+
+### Starting Something New
+
 The New Year for a lot of people marks the start of something new, something we want to improve on or achieve in the year ahead, be that the diet you start every year or maybe learning a new language. For this month's (long overdue) entry, and in keeping with the spirit of starting anew, I’ve decided to cover the ‘How to..’ of Microsoft Certifications: what are they and how do you get certified?
 
 For those who work in the technical space, certifications are a great way to highlight and show off your skills. However, while Microsoft themselves have an assortment of resources regarding ‘Getting Certified,’ for anyone new to the process it can be a bit confusing. I wanted to give my own take on the process and hopefully help someone out there start their own certification journey.
 
-## Why get Microsoft Certified?
+### Why get Microsoft Certified?
 
 You can read up on Microsoft’s learn page on [Why getting certified?](https://learn.microsoft.com/en-us/credentials/certifications/posts/microsoft-learn-why-get-certified) is important. These reasons include career progression and boosts to salary that are great in the long term, especially if you progress into the more advanced ‘Associate’ and ‘Expert’ level certifications.
 
@@ -21,7 +25,7 @@ However, if you are new to the IT industry or wanting to pivot into the cloud sp
 
 Speaking from my experience, I genuinely don't believe I would be where I am today without having done the **AZ-900: Azure Fundamentals**. Taking that exam was the catalyst for my transition to working so heavily in the Azure space; the learning material was fresh, it was interesting, and I genuinely enjoyed learning something completely new and it inspired me to move more into the cloud space.
 
-## What are Microsoft Certifications?
+### What are Microsoft Certifications?
 
 Now, if you are sitting there thinking, “Great, but I still don’t know what they are,” let’s break it down.
 
@@ -37,7 +41,7 @@ For **Associate** and **Expert** level certifications, Microsoft requires an [**
 
 Crucially, these are **not proctored** (meaning they are not monitored by an invigilator). Instead, they are lab-based assessments where you complete real tasks in a virtual environment primarily aimed at educators and students. We won’t cover them in much detail here, but they are worth knowing about if you want to try some hands-on.
 
-## Breaking down the different certifications
+### Breaking down the different certifications
 
 Focusing on the "Full" certifications, if you look at the [**Become Microsoft Certified**](https://arch-center.azureedge.net/Credentials/Certification-Poster_en-us.pdf) poster, you might notice that they are broken up into distinct categories. It isn't just a random list; there is a structure to the madness. Here is how they stack up:
 
@@ -60,9 +64,15 @@ Focusing on the "Full" certifications, if you look at the [**Become Microsoft Ce
 
 ### What Certification Level is right for you?
 
-<table style="min-width: 100px;"><colgroup><col style="min-width: 25px;"><col style="min-width: 25px;"><col style="min-width: 25px;"><col style="min-width: 25px;"></colgroup><tbody><tr><th colspan="1" rowspan="1"><p>Level</p></th><th colspan="1" rowspan="1"><p>Focus</p></th><th colspan="1" rowspan="1"><p>Recommended Experience</p></th><th colspan="1" rowspan="1"><p>Renewal Required</p></th></tr><tr><td colspan="1" rowspan="1"><p>Fundamentals</p></td><td colspan="1" rowspan="1"><p>Concepts &amp; Terminology</p></td><td colspan="1" rowspan="1"><p>None (Beginner)</p></td><td colspan="1" rowspan="1"><p>No (Lifetime)</p></td></tr><tr><td colspan="1" rowspan="1"><p>Associate</p></td><td colspan="1" rowspan="1"><p>Implementation &amp; Configuration</p></td><td colspan="1" rowspan="1"><p>6 - 12 Months</p></td><td colspan="1" rowspan="1"><p>Yes (Annual)</p></td></tr><tr><td colspan="1" rowspan="1"><p>Expert</p></td><td colspan="1" rowspan="1"><p>Design &amp; Architecture</p></td><td colspan="1" rowspan="1"><p>2 - 3 years</p></td><td colspan="1" rowspan="1"><p>Yes (Annual)</p></td></tr><tr><td colspan="1" rowspan="1"><p>Speciality</p></td><td colspan="1" rowspan="1"><p>Niche Technical Scenarios</p></td><td colspan="1" rowspan="1"><p>Deep Technical Experience</p></td><td colspan="1" rowspan="1"><p>Yes (Annual)</p></td></tr><tr><td colspan="1" rowspan="1"><p>Business</p></td><td colspan="1" rowspan="1"><p>AI &amp; Productivity Applications</p></td><td colspan="1" rowspan="1"><p>Professional Context</p></td><td colspan="1" rowspan="1"><p>Varies by Exam</p></td></tr></tbody></table>
+| Level | Focus | Recommended Experience | Renewal Required |
+| --- | --- | --- | --- |
+| Fundamentals | Concepts & Terminology | None (Beginner) | No (Lifetime) |
+| Associate | Implementation & Configuration | 6 - 12 Months | Yes (Annual) |
+| Expert | Design & Architecture | 2 - 3 years | Yes (Annual) |
+| Speciality | Niche Technical Scenarios | Deep Technical Experience | Yes (Annual) |
+| Business | AI & Productivity Applications | Professional Context | Varies by Exam |
 
-## How Do You Get Certified?
+### How Do You Get Certified?
 
 So, we know what Microsoft Certifications are and what some of the benefits are but how do you actually get certified? Well remember the [Become Microsoft Certified](https://arch-center.azureedge.net/Credentials/Certification-Poster_en-us.pdf) poster? well, it starts once you’ve selected the certification path you want to take. Each certification in the poster has an embedded link to the certification page where it will cover all the details and information of that exam so If you’re entirely new to cloud, then start with the fundamentals. Interested in Security? then go look at the SC-900: Security, Compliance and Identity Fundamentals or for Azure it’s AZ-900: Azure Fundamentals. Whatever your path or career goals, there is a certification relevant to you.
 
