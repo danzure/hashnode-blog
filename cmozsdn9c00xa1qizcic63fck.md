@@ -13,7 +13,7 @@ tags: microsoft, azure, fundamentals, microsoft-azure
 
 Wondering how to keep your Azure environment organised and efficient? Following our guide on subscriptions, this entry breaks down Azure Resource Groups—the essential logical containers for your cloud resources. We explore the straightforward creation process, crucial nuances regarding metadata regions, and how grouping deployments by workload simplifies lifecycle management. Discover how mastering this foundational practice directly drives both Cost Optimisation and Operational Excellence within your cloud architecture.
 
-### What are Resource Groups
+### Introduction
 
 In the previous entry, we covered subscriptions, so naturally it makes sense that we now cover Resource Groups. In short, just like a subscription, you can think of a resource group as another sort of 'container', and these sit within or under your subscription (or subscriptions if you have multiple). However, unlike subscriptions, resource groups are primarily—as the name suggests—a method of grouping your deployed cloud resources, be that a virtual machine or a virtual network, into one logically assigned place.
 
