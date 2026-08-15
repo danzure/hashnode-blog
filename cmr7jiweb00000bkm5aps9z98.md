@@ -1,8 +1,10 @@
 ---
 title: "How To.. Build agents for, Agent Builder, Copilot Studio, and Foundry"
+seoDescription: "Learn how to build AI agents across the Microsoft ecosystem. Compare no-code Agent Builder, low-code Copilot Studio, and full-code Azure AI Foundry."
 datePublished: 2026-07-05T08:39:50.957Z
 cuid: cmr7jiweb00000bkm5aps9z98
 slug: how-to-build-agents-for-agent-builder-copilot-studio-and-foundry
+cover: https://cdn.hashnode.com/uploads/covers/6862cf4acc277a35bb68ec0f/e0e63212-6f58-487d-a77d-d366f0284b59.png
 
 ---
 
