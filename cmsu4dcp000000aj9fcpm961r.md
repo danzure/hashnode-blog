@@ -1,5 +1,5 @@
 ---
-title: "T is for Tags (Tagging"
+title: "T is for Tags (Tagging)"
 seoTitle: "Azure Tagging Strategy Guide: Governanc & Best Practice"
 seoDescription: "Implement an enterprise Azure tagging strategy. Align metadata with the WAF, enforce Azure Policy, and reduce cloud costs."
 datePublished: 2026-08-15T08:34:02.262Z
